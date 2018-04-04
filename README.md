@@ -10,7 +10,6 @@ Wifi Direct，实现Android手机之间无网络传输文件
 1. 对比wifi下的其他链接方式
   1. udp
   2. tcp
-  3. 
 2. 对比蓝牙
   1. 传统蓝牙
   2. ble
